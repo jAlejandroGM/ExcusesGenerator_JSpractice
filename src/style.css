@@ -3,3 +3,12 @@
 body{
     background: white;
 }
+
+#box {
+    text-align: center;
+}
+
+p {
+    font-size: 6rem;
+    font-weight: bold ;
+}
